@@ -21,4 +21,5 @@ var lightbox = new SimpleLightbox('.gallery a', {
     caption: true,
   captionsData: 'alt',
   captionDelay: 250,
+  
  });
